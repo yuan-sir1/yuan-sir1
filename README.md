@@ -7,5 +7,5 @@
 - 🔭 I am an amateur website enthusiast
 - 😄 I like secondary development because I don't have the ability to develop web pages independently
 - 👯 Nice to meet you and make friends!
-- 📫 Gmail：yuan@y-sir.cn
+- 📫 Gmail：yuan@yuan-sir.com
 - ⚡ Good luck
